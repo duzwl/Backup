@@ -1,0 +1,70 @@
+# Header
+menu:
+  主页: /
+  日志: /archives
+  #随笔: /tags/t2
+
+# SubNav
+subnav:
+  github: https://github.com/duzw1
+  #weibo: "#"
+  
+  #zhihu: "#"
+  #douban: "#"
+  mail: https://mail.qq.com/609707451@qq.com
+  facebook: https://www.facebook.com/profile.php?id=Zewei%20Du
+  #google: "#"
+  #twitter: "#"
+  #linkedin: "#"
+  rss: /atom.xml
+
+rss: /atom.xml
+
+swift_search:
+  enable: false
+
+
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: false
+
+# 是否开启动画效果
+animate: true
+post_asset_folder: true
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+google_analytics: ''
+favicon: /favicon.ico
+
+#你的头像url
+avatar: /img/blog.png
+#是否开启分享
+share_jia: false
+share_addthis: false
+#是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
+#若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
+duoshuo: true
+duoshuo_shortname: duzwblog
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+#friends: false
+#开启——
+friends:
+  小白入门: http://www.cnblogs.com/KnowLXQ/p/5427555.html
+  不如的博客: http://ibruce.info/2013/11/22/hexo-your-blog/
+  
+  NexT: http://theme-next.iissnan.com/third-party-services.html
+  不蒜子: http://ibruce.info/2015/04/04/busuanzi/
+
+#是否开启“关于我”。
+#不开启——
+#aboutme: true
+#开启——
+aboutme: 作为一个零基础的菜鸡程序猿，目标是迅速成长为攻城狮。大山中学14级本科生。
